@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\PatikaDEV\\Patika_C#\\Csharp101\\ConsoleApp\\consoleapp.csproj",
-      "projectName": "consoleapp",
-      "projectPath": "D:\\PatikaDEV\\Patika_C#\\Csharp101\\ConsoleApp\\consoleapp.csproj",
+      "projectUniqueName": "D:\\PatikaDEV\\Patika_C#\\Csharp101\\Degisken\\Degisken.csproj",
+      "projectName": "Degisken",
+      "projectPath": "D:\\PatikaDEV\\Patika_C#\\Csharp101\\Degisken\\Degisken.csproj",
       "packagesPath": "C:\\Users\\Akif\\.nuget\\packages\\",
-      "outputPath": "D:\\PatikaDEV\\Patika_C#\\Csharp101\\ConsoleApp\\obj\\",
+      "outputPath": "D:\\PatikaDEV\\Patika_C#\\Csharp101\\Degisken\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Akif\\AppData\\Roaming\\NuGet\\NuGet.Config",

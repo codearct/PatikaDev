@@ -1,0 +1,16 @@
+D:\PatikaDEV\Patika_C#\Csharp101\Degisken\bin\Debug\net5.0\Degisken.exe
+D:\PatikaDEV\Patika_C#\Csharp101\Degisken\bin\Debug\net5.0\Degisken.deps.json
+D:\PatikaDEV\Patika_C#\Csharp101\Degisken\bin\Debug\net5.0\Degisken.runtimeconfig.json
+D:\PatikaDEV\Patika_C#\Csharp101\Degisken\bin\Debug\net5.0\Degisken.runtimeconfig.dev.json
+D:\PatikaDEV\Patika_C#\Csharp101\Degisken\bin\Debug\net5.0\Degisken.dll
+D:\PatikaDEV\Patika_C#\Csharp101\Degisken\bin\Debug\net5.0\ref\Degisken.dll
+D:\PatikaDEV\Patika_C#\Csharp101\Degisken\bin\Debug\net5.0\Degisken.pdb
+D:\PatikaDEV\Patika_C#\Csharp101\Degisken\obj\Debug\net5.0\Degisken.csprojAssemblyReference.cache
+D:\PatikaDEV\Patika_C#\Csharp101\Degisken\obj\Debug\net5.0\Degisken.GeneratedMSBuildEditorConfig.editorconfig
+D:\PatikaDEV\Patika_C#\Csharp101\Degisken\obj\Debug\net5.0\Degisken.AssemblyInfoInputs.cache
+D:\PatikaDEV\Patika_C#\Csharp101\Degisken\obj\Debug\net5.0\Degisken.AssemblyInfo.cs
+D:\PatikaDEV\Patika_C#\Csharp101\Degisken\obj\Debug\net5.0\Degisken.csproj.CoreCompileInputs.cache
+D:\PatikaDEV\Patika_C#\Csharp101\Degisken\obj\Debug\net5.0\Degisken.dll
+D:\PatikaDEV\Patika_C#\Csharp101\Degisken\obj\Debug\net5.0\ref\Degisken.dll
+D:\PatikaDEV\Patika_C#\Csharp101\Degisken\obj\Debug\net5.0\Degisken.pdb
+D:\PatikaDEV\Patika_C#\Csharp101\Degisken\obj\Debug\net5.0\Degisken.genruntimeconfig.cache

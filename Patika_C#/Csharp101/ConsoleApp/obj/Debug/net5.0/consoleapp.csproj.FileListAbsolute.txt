@@ -14,3 +14,11 @@ D:\PatikaDev\Csharp101\consoleapp\obj\Debug\net5.0\consoleapp.dll
 D:\PatikaDev\Csharp101\consoleapp\obj\Debug\net5.0\ref\consoleapp.dll
 D:\PatikaDev\Csharp101\consoleapp\obj\Debug\net5.0\consoleapp.pdb
 D:\PatikaDev\Csharp101\consoleapp\obj\Debug\net5.0\consoleapp.genruntimeconfig.cache
+D:\PatikaDEV\Patika_C#\Csharp101\ConsoleApp\obj\Debug\net5.0\consoleapp.csprojAssemblyReference.cache
+D:\PatikaDEV\Patika_C#\Csharp101\ConsoleApp\obj\Debug\net5.0\consoleapp.GeneratedMSBuildEditorConfig.editorconfig
+D:\PatikaDEV\Patika_C#\Csharp101\ConsoleApp\obj\Debug\net5.0\consoleapp.AssemblyInfoInputs.cache
+D:\PatikaDEV\Patika_C#\Csharp101\ConsoleApp\obj\Debug\net5.0\consoleapp.AssemblyInfo.cs
+D:\PatikaDEV\Patika_C#\Csharp101\ConsoleApp\obj\Debug\net5.0\consoleapp.csproj.CoreCompileInputs.cache
+D:\PatikaDEV\Patika_C#\Csharp101\ConsoleApp\obj\Debug\net5.0\consoleapp.dll
+D:\PatikaDEV\Patika_C#\Csharp101\ConsoleApp\obj\Debug\net5.0\ref\consoleapp.dll
+D:\PatikaDEV\Patika_C#\Csharp101\ConsoleApp\obj\Debug\net5.0\consoleapp.pdb
