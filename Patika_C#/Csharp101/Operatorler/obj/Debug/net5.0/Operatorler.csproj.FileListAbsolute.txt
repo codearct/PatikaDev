@@ -1,0 +1,16 @@
+D:\PatikaDev\Patika_C#\Csharp101\Operatorler\obj\Debug\net5.0\Operatorler.csprojAssemblyReference.cache
+D:\PatikaDev\Patika_C#\Csharp101\Operatorler\obj\Debug\net5.0\Operatorler.GeneratedMSBuildEditorConfig.editorconfig
+D:\PatikaDev\Patika_C#\Csharp101\Operatorler\obj\Debug\net5.0\Operatorler.AssemblyInfoInputs.cache
+D:\PatikaDev\Patika_C#\Csharp101\Operatorler\obj\Debug\net5.0\Operatorler.AssemblyInfo.cs
+D:\PatikaDev\Patika_C#\Csharp101\Operatorler\obj\Debug\net5.0\Operatorler.csproj.CoreCompileInputs.cache
+D:\PatikaDev\Patika_C#\Csharp101\Operatorler\bin\Debug\net5.0\Operatorler.exe
+D:\PatikaDev\Patika_C#\Csharp101\Operatorler\bin\Debug\net5.0\Operatorler.deps.json
+D:\PatikaDev\Patika_C#\Csharp101\Operatorler\bin\Debug\net5.0\Operatorler.runtimeconfig.json
+D:\PatikaDev\Patika_C#\Csharp101\Operatorler\bin\Debug\net5.0\Operatorler.runtimeconfig.dev.json
+D:\PatikaDev\Patika_C#\Csharp101\Operatorler\bin\Debug\net5.0\Operatorler.dll
+D:\PatikaDev\Patika_C#\Csharp101\Operatorler\bin\Debug\net5.0\ref\Operatorler.dll
+D:\PatikaDev\Patika_C#\Csharp101\Operatorler\bin\Debug\net5.0\Operatorler.pdb
+D:\PatikaDev\Patika_C#\Csharp101\Operatorler\obj\Debug\net5.0\Operatorler.dll
+D:\PatikaDev\Patika_C#\Csharp101\Operatorler\obj\Debug\net5.0\ref\Operatorler.dll
+D:\PatikaDev\Patika_C#\Csharp101\Operatorler\obj\Debug\net5.0\Operatorler.pdb
+D:\PatikaDev\Patika_C#\Csharp101\Operatorler\obj\Debug\net5.0\Operatorler.genruntimeconfig.cache
