@@ -1,0 +1,16 @@
+D:\PatikaDev\Patika_C#\Csharp101\Donguler_For\bin\Debug\net5.0\Donguler_For.exe
+D:\PatikaDev\Patika_C#\Csharp101\Donguler_For\bin\Debug\net5.0\Donguler_For.deps.json
+D:\PatikaDev\Patika_C#\Csharp101\Donguler_For\bin\Debug\net5.0\Donguler_For.runtimeconfig.json
+D:\PatikaDev\Patika_C#\Csharp101\Donguler_For\bin\Debug\net5.0\Donguler_For.runtimeconfig.dev.json
+D:\PatikaDev\Patika_C#\Csharp101\Donguler_For\bin\Debug\net5.0\Donguler_For.dll
+D:\PatikaDev\Patika_C#\Csharp101\Donguler_For\bin\Debug\net5.0\ref\Donguler_For.dll
+D:\PatikaDev\Patika_C#\Csharp101\Donguler_For\bin\Debug\net5.0\Donguler_For.pdb
+D:\PatikaDev\Patika_C#\Csharp101\Donguler_For\obj\Debug\net5.0\Donguler_For.csprojAssemblyReference.cache
+D:\PatikaDev\Patika_C#\Csharp101\Donguler_For\obj\Debug\net5.0\Donguler_For.GeneratedMSBuildEditorConfig.editorconfig
+D:\PatikaDev\Patika_C#\Csharp101\Donguler_For\obj\Debug\net5.0\Donguler_For.AssemblyInfoInputs.cache
+D:\PatikaDev\Patika_C#\Csharp101\Donguler_For\obj\Debug\net5.0\Donguler_For.AssemblyInfo.cs
+D:\PatikaDev\Patika_C#\Csharp101\Donguler_For\obj\Debug\net5.0\Donguler_For.csproj.CoreCompileInputs.cache
+D:\PatikaDev\Patika_C#\Csharp101\Donguler_For\obj\Debug\net5.0\Donguler_For.dll
+D:\PatikaDev\Patika_C#\Csharp101\Donguler_For\obj\Debug\net5.0\ref\Donguler_For.dll
+D:\PatikaDev\Patika_C#\Csharp101\Donguler_For\obj\Debug\net5.0\Donguler_For.pdb
+D:\PatikaDev\Patika_C#\Csharp101\Donguler_For\obj\Debug\net5.0\Donguler_For.genruntimeconfig.cache
