@@ -1,0 +1,16 @@
+D:\PatikaDev\Patika_C#\Csharp101\if_else_if\bin\Debug\net5.0\if_else_if.exe
+D:\PatikaDev\Patika_C#\Csharp101\if_else_if\bin\Debug\net5.0\if_else_if.deps.json
+D:\PatikaDev\Patika_C#\Csharp101\if_else_if\bin\Debug\net5.0\if_else_if.runtimeconfig.json
+D:\PatikaDev\Patika_C#\Csharp101\if_else_if\bin\Debug\net5.0\if_else_if.runtimeconfig.dev.json
+D:\PatikaDev\Patika_C#\Csharp101\if_else_if\bin\Debug\net5.0\if_else_if.dll
+D:\PatikaDev\Patika_C#\Csharp101\if_else_if\bin\Debug\net5.0\ref\if_else_if.dll
+D:\PatikaDev\Patika_C#\Csharp101\if_else_if\bin\Debug\net5.0\if_else_if.pdb
+D:\PatikaDev\Patika_C#\Csharp101\if_else_if\obj\Debug\net5.0\if_else_if.csprojAssemblyReference.cache
+D:\PatikaDev\Patika_C#\Csharp101\if_else_if\obj\Debug\net5.0\if_else_if.GeneratedMSBuildEditorConfig.editorconfig
+D:\PatikaDev\Patika_C#\Csharp101\if_else_if\obj\Debug\net5.0\if_else_if.AssemblyInfoInputs.cache
+D:\PatikaDev\Patika_C#\Csharp101\if_else_if\obj\Debug\net5.0\if_else_if.AssemblyInfo.cs
+D:\PatikaDev\Patika_C#\Csharp101\if_else_if\obj\Debug\net5.0\if_else_if.csproj.CoreCompileInputs.cache
+D:\PatikaDev\Patika_C#\Csharp101\if_else_if\obj\Debug\net5.0\if_else_if.dll
+D:\PatikaDev\Patika_C#\Csharp101\if_else_if\obj\Debug\net5.0\ref\if_else_if.dll
+D:\PatikaDev\Patika_C#\Csharp101\if_else_if\obj\Debug\net5.0\if_else_if.pdb
+D:\PatikaDev\Patika_C#\Csharp101\if_else_if\obj\Debug\net5.0\if_else_if.genruntimeconfig.cache
