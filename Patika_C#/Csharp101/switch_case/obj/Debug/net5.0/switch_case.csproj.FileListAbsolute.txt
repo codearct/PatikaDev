@@ -1,0 +1,16 @@
+D:\PatikaDev\Patika_C#\Csharp101\switch_case\obj\Debug\net5.0\switch_case.csprojAssemblyReference.cache
+D:\PatikaDev\Patika_C#\Csharp101\switch_case\obj\Debug\net5.0\switch_case.GeneratedMSBuildEditorConfig.editorconfig
+D:\PatikaDev\Patika_C#\Csharp101\switch_case\obj\Debug\net5.0\switch_case.AssemblyInfoInputs.cache
+D:\PatikaDev\Patika_C#\Csharp101\switch_case\obj\Debug\net5.0\switch_case.AssemblyInfo.cs
+D:\PatikaDev\Patika_C#\Csharp101\switch_case\obj\Debug\net5.0\switch_case.csproj.CoreCompileInputs.cache
+D:\PatikaDev\Patika_C#\Csharp101\switch_case\bin\Debug\net5.0\switch_case.exe
+D:\PatikaDev\Patika_C#\Csharp101\switch_case\bin\Debug\net5.0\switch_case.deps.json
+D:\PatikaDev\Patika_C#\Csharp101\switch_case\bin\Debug\net5.0\switch_case.runtimeconfig.json
+D:\PatikaDev\Patika_C#\Csharp101\switch_case\bin\Debug\net5.0\switch_case.runtimeconfig.dev.json
+D:\PatikaDev\Patika_C#\Csharp101\switch_case\bin\Debug\net5.0\switch_case.dll
+D:\PatikaDev\Patika_C#\Csharp101\switch_case\bin\Debug\net5.0\ref\switch_case.dll
+D:\PatikaDev\Patika_C#\Csharp101\switch_case\bin\Debug\net5.0\switch_case.pdb
+D:\PatikaDev\Patika_C#\Csharp101\switch_case\obj\Debug\net5.0\switch_case.dll
+D:\PatikaDev\Patika_C#\Csharp101\switch_case\obj\Debug\net5.0\ref\switch_case.dll
+D:\PatikaDev\Patika_C#\Csharp101\switch_case\obj\Debug\net5.0\switch_case.pdb
+D:\PatikaDev\Patika_C#\Csharp101\switch_case\obj\Debug\net5.0\switch_case.genruntimeconfig.cache
