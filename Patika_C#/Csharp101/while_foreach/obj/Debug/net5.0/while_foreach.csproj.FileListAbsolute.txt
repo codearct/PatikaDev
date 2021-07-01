@@ -1,0 +1,16 @@
+D:\PatikaDev\Patika_C#\Csharp101\while_foreach\bin\Debug\net5.0\while_foreach.exe
+D:\PatikaDev\Patika_C#\Csharp101\while_foreach\bin\Debug\net5.0\while_foreach.deps.json
+D:\PatikaDev\Patika_C#\Csharp101\while_foreach\bin\Debug\net5.0\while_foreach.runtimeconfig.json
+D:\PatikaDev\Patika_C#\Csharp101\while_foreach\bin\Debug\net5.0\while_foreach.runtimeconfig.dev.json
+D:\PatikaDev\Patika_C#\Csharp101\while_foreach\bin\Debug\net5.0\while_foreach.dll
+D:\PatikaDev\Patika_C#\Csharp101\while_foreach\bin\Debug\net5.0\ref\while_foreach.dll
+D:\PatikaDev\Patika_C#\Csharp101\while_foreach\bin\Debug\net5.0\while_foreach.pdb
+D:\PatikaDev\Patika_C#\Csharp101\while_foreach\obj\Debug\net5.0\while_foreach.csprojAssemblyReference.cache
+D:\PatikaDev\Patika_C#\Csharp101\while_foreach\obj\Debug\net5.0\while_foreach.GeneratedMSBuildEditorConfig.editorconfig
+D:\PatikaDev\Patika_C#\Csharp101\while_foreach\obj\Debug\net5.0\while_foreach.AssemblyInfoInputs.cache
+D:\PatikaDev\Patika_C#\Csharp101\while_foreach\obj\Debug\net5.0\while_foreach.AssemblyInfo.cs
+D:\PatikaDev\Patika_C#\Csharp101\while_foreach\obj\Debug\net5.0\while_foreach.csproj.CoreCompileInputs.cache
+D:\PatikaDev\Patika_C#\Csharp101\while_foreach\obj\Debug\net5.0\while_foreach.dll
+D:\PatikaDev\Patika_C#\Csharp101\while_foreach\obj\Debug\net5.0\ref\while_foreach.dll
+D:\PatikaDev\Patika_C#\Csharp101\while_foreach\obj\Debug\net5.0\while_foreach.pdb
+D:\PatikaDev\Patika_C#\Csharp101\while_foreach\obj\Debug\net5.0\while_foreach.genruntimeconfig.cache
