@@ -1,0 +1,16 @@
+D:\PatikaDev\Patika_C#\Csharp101\array_metodlari\bin\Debug\net5.0\array_metodlari.exe
+D:\PatikaDev\Patika_C#\Csharp101\array_metodlari\bin\Debug\net5.0\array_metodlari.deps.json
+D:\PatikaDev\Patika_C#\Csharp101\array_metodlari\bin\Debug\net5.0\array_metodlari.runtimeconfig.json
+D:\PatikaDev\Patika_C#\Csharp101\array_metodlari\bin\Debug\net5.0\array_metodlari.runtimeconfig.dev.json
+D:\PatikaDev\Patika_C#\Csharp101\array_metodlari\bin\Debug\net5.0\array_metodlari.dll
+D:\PatikaDev\Patika_C#\Csharp101\array_metodlari\bin\Debug\net5.0\ref\array_metodlari.dll
+D:\PatikaDev\Patika_C#\Csharp101\array_metodlari\bin\Debug\net5.0\array_metodlari.pdb
+D:\PatikaDev\Patika_C#\Csharp101\array_metodlari\obj\Debug\net5.0\array_metodlari.csprojAssemblyReference.cache
+D:\PatikaDev\Patika_C#\Csharp101\array_metodlari\obj\Debug\net5.0\array_metodlari.GeneratedMSBuildEditorConfig.editorconfig
+D:\PatikaDev\Patika_C#\Csharp101\array_metodlari\obj\Debug\net5.0\array_metodlari.AssemblyInfoInputs.cache
+D:\PatikaDev\Patika_C#\Csharp101\array_metodlari\obj\Debug\net5.0\array_metodlari.AssemblyInfo.cs
+D:\PatikaDev\Patika_C#\Csharp101\array_metodlari\obj\Debug\net5.0\array_metodlari.csproj.CoreCompileInputs.cache
+D:\PatikaDev\Patika_C#\Csharp101\array_metodlari\obj\Debug\net5.0\array_metodlari.dll
+D:\PatikaDev\Patika_C#\Csharp101\array_metodlari\obj\Debug\net5.0\ref\array_metodlari.dll
+D:\PatikaDev\Patika_C#\Csharp101\array_metodlari\obj\Debug\net5.0\array_metodlari.pdb
+D:\PatikaDev\Patika_C#\Csharp101\array_metodlari\obj\Debug\net5.0\array_metodlari.genruntimeconfig.cache
