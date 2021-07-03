@@ -1,0 +1,16 @@
+D:\PatikaDev\Patika_C#\Csharp101\metotlar\bin\Debug\net5.0\metotlar.exe
+D:\PatikaDev\Patika_C#\Csharp101\metotlar\bin\Debug\net5.0\metotlar.deps.json
+D:\PatikaDev\Patika_C#\Csharp101\metotlar\bin\Debug\net5.0\metotlar.runtimeconfig.json
+D:\PatikaDev\Patika_C#\Csharp101\metotlar\bin\Debug\net5.0\metotlar.runtimeconfig.dev.json
+D:\PatikaDev\Patika_C#\Csharp101\metotlar\bin\Debug\net5.0\metotlar.dll
+D:\PatikaDev\Patika_C#\Csharp101\metotlar\bin\Debug\net5.0\ref\metotlar.dll
+D:\PatikaDev\Patika_C#\Csharp101\metotlar\bin\Debug\net5.0\metotlar.pdb
+D:\PatikaDev\Patika_C#\Csharp101\metotlar\obj\Debug\net5.0\metotlar.csprojAssemblyReference.cache
+D:\PatikaDev\Patika_C#\Csharp101\metotlar\obj\Debug\net5.0\metotlar.GeneratedMSBuildEditorConfig.editorconfig
+D:\PatikaDev\Patika_C#\Csharp101\metotlar\obj\Debug\net5.0\metotlar.AssemblyInfoInputs.cache
+D:\PatikaDev\Patika_C#\Csharp101\metotlar\obj\Debug\net5.0\metotlar.AssemblyInfo.cs
+D:\PatikaDev\Patika_C#\Csharp101\metotlar\obj\Debug\net5.0\metotlar.csproj.CoreCompileInputs.cache
+D:\PatikaDev\Patika_C#\Csharp101\metotlar\obj\Debug\net5.0\metotlar.dll
+D:\PatikaDev\Patika_C#\Csharp101\metotlar\obj\Debug\net5.0\ref\metotlar.dll
+D:\PatikaDev\Patika_C#\Csharp101\metotlar\obj\Debug\net5.0\metotlar.pdb
+D:\PatikaDev\Patika_C#\Csharp101\metotlar\obj\Debug\net5.0\metotlar.genruntimeconfig.cache
