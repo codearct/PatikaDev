@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "string_metotlar/1.0.0": {
+        "runtime": {
+          "string_metotlar.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "string_metotlar/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
