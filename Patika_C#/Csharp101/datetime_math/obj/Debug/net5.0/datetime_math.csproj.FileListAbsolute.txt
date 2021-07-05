@@ -1,0 +1,16 @@
+D:\PatikaDev\Patika_C#\Csharp101\datetime_math\bin\Debug\net5.0\datetime_math.exe
+D:\PatikaDev\Patika_C#\Csharp101\datetime_math\bin\Debug\net5.0\datetime_math.deps.json
+D:\PatikaDev\Patika_C#\Csharp101\datetime_math\bin\Debug\net5.0\datetime_math.runtimeconfig.json
+D:\PatikaDev\Patika_C#\Csharp101\datetime_math\bin\Debug\net5.0\datetime_math.runtimeconfig.dev.json
+D:\PatikaDev\Patika_C#\Csharp101\datetime_math\bin\Debug\net5.0\datetime_math.dll
+D:\PatikaDev\Patika_C#\Csharp101\datetime_math\bin\Debug\net5.0\ref\datetime_math.dll
+D:\PatikaDev\Patika_C#\Csharp101\datetime_math\bin\Debug\net5.0\datetime_math.pdb
+D:\PatikaDev\Patika_C#\Csharp101\datetime_math\obj\Debug\net5.0\datetime_math.csprojAssemblyReference.cache
+D:\PatikaDev\Patika_C#\Csharp101\datetime_math\obj\Debug\net5.0\datetime_math.GeneratedMSBuildEditorConfig.editorconfig
+D:\PatikaDev\Patika_C#\Csharp101\datetime_math\obj\Debug\net5.0\datetime_math.AssemblyInfoInputs.cache
+D:\PatikaDev\Patika_C#\Csharp101\datetime_math\obj\Debug\net5.0\datetime_math.AssemblyInfo.cs
+D:\PatikaDev\Patika_C#\Csharp101\datetime_math\obj\Debug\net5.0\datetime_math.csproj.CoreCompileInputs.cache
+D:\PatikaDev\Patika_C#\Csharp101\datetime_math\obj\Debug\net5.0\datetime_math.dll
+D:\PatikaDev\Patika_C#\Csharp101\datetime_math\obj\Debug\net5.0\ref\datetime_math.dll
+D:\PatikaDev\Patika_C#\Csharp101\datetime_math\obj\Debug\net5.0\datetime_math.pdb
+D:\PatikaDev\Patika_C#\Csharp101\datetime_math\obj\Debug\net5.0\datetime_math.genruntimeconfig.cache
