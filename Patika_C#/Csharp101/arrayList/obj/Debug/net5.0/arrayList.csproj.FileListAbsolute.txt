@@ -1,0 +1,16 @@
+D:\Patikadev\Patika_C#\Csharp101\arrayList\bin\Debug\net5.0\arrayList.exe
+D:\Patikadev\Patika_C#\Csharp101\arrayList\bin\Debug\net5.0\arrayList.deps.json
+D:\Patikadev\Patika_C#\Csharp101\arrayList\bin\Debug\net5.0\arrayList.runtimeconfig.json
+D:\Patikadev\Patika_C#\Csharp101\arrayList\bin\Debug\net5.0\arrayList.runtimeconfig.dev.json
+D:\Patikadev\Patika_C#\Csharp101\arrayList\bin\Debug\net5.0\arrayList.dll
+D:\Patikadev\Patika_C#\Csharp101\arrayList\bin\Debug\net5.0\ref\arrayList.dll
+D:\Patikadev\Patika_C#\Csharp101\arrayList\bin\Debug\net5.0\arrayList.pdb
+D:\Patikadev\Patika_C#\Csharp101\arrayList\obj\Debug\net5.0\arrayList.csprojAssemblyReference.cache
+D:\Patikadev\Patika_C#\Csharp101\arrayList\obj\Debug\net5.0\arrayList.GeneratedMSBuildEditorConfig.editorconfig
+D:\Patikadev\Patika_C#\Csharp101\arrayList\obj\Debug\net5.0\arrayList.AssemblyInfoInputs.cache
+D:\Patikadev\Patika_C#\Csharp101\arrayList\obj\Debug\net5.0\arrayList.AssemblyInfo.cs
+D:\Patikadev\Patika_C#\Csharp101\arrayList\obj\Debug\net5.0\arrayList.csproj.CoreCompileInputs.cache
+D:\Patikadev\Patika_C#\Csharp101\arrayList\obj\Debug\net5.0\arrayList.dll
+D:\Patikadev\Patika_C#\Csharp101\arrayList\obj\Debug\net5.0\ref\arrayList.dll
+D:\Patikadev\Patika_C#\Csharp101\arrayList\obj\Debug\net5.0\arrayList.pdb
+D:\Patikadev\Patika_C#\Csharp101\arrayList\obj\Debug\net5.0\arrayList.genruntimeconfig.cache
