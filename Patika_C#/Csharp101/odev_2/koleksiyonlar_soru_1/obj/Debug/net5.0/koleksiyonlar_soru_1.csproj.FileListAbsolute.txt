@@ -1,0 +1,16 @@
+D:\PatikaDev\Patika_C#\Csharp101\odev_2\koleksiyonlar_soru_1\obj\Debug\net5.0\koleksiyonlar_soru_1.csprojAssemblyReference.cache
+D:\PatikaDev\Patika_C#\Csharp101\odev_2\koleksiyonlar_soru_1\obj\Debug\net5.0\koleksiyonlar_soru_1.GeneratedMSBuildEditorConfig.editorconfig
+D:\PatikaDev\Patika_C#\Csharp101\odev_2\koleksiyonlar_soru_1\obj\Debug\net5.0\koleksiyonlar_soru_1.AssemblyInfoInputs.cache
+D:\PatikaDev\Patika_C#\Csharp101\odev_2\koleksiyonlar_soru_1\obj\Debug\net5.0\koleksiyonlar_soru_1.AssemblyInfo.cs
+D:\PatikaDev\Patika_C#\Csharp101\odev_2\koleksiyonlar_soru_1\obj\Debug\net5.0\koleksiyonlar_soru_1.csproj.CoreCompileInputs.cache
+D:\PatikaDev\Patika_C#\Csharp101\odev_2\koleksiyonlar_soru_1\bin\Debug\net5.0\koleksiyonlar_soru_1.exe
+D:\PatikaDev\Patika_C#\Csharp101\odev_2\koleksiyonlar_soru_1\bin\Debug\net5.0\koleksiyonlar_soru_1.deps.json
+D:\PatikaDev\Patika_C#\Csharp101\odev_2\koleksiyonlar_soru_1\bin\Debug\net5.0\koleksiyonlar_soru_1.runtimeconfig.json
+D:\PatikaDev\Patika_C#\Csharp101\odev_2\koleksiyonlar_soru_1\bin\Debug\net5.0\koleksiyonlar_soru_1.runtimeconfig.dev.json
+D:\PatikaDev\Patika_C#\Csharp101\odev_2\koleksiyonlar_soru_1\bin\Debug\net5.0\koleksiyonlar_soru_1.dll
+D:\PatikaDev\Patika_C#\Csharp101\odev_2\koleksiyonlar_soru_1\bin\Debug\net5.0\ref\koleksiyonlar_soru_1.dll
+D:\PatikaDev\Patika_C#\Csharp101\odev_2\koleksiyonlar_soru_1\bin\Debug\net5.0\koleksiyonlar_soru_1.pdb
+D:\PatikaDev\Patika_C#\Csharp101\odev_2\koleksiyonlar_soru_1\obj\Debug\net5.0\koleksiyonlar_soru_1.dll
+D:\PatikaDev\Patika_C#\Csharp101\odev_2\koleksiyonlar_soru_1\obj\Debug\net5.0\ref\koleksiyonlar_soru_1.dll
+D:\PatikaDev\Patika_C#\Csharp101\odev_2\koleksiyonlar_soru_1\obj\Debug\net5.0\koleksiyonlar_soru_1.pdb
+D:\PatikaDev\Patika_C#\Csharp101\odev_2\koleksiyonlar_soru_1\obj\Debug\net5.0\koleksiyonlar_soru_1.genruntimeconfig.cache
