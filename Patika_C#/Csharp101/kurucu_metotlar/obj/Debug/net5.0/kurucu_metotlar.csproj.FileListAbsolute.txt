@@ -1,0 +1,16 @@
+D:\PatikaDev\Patika_C#\Csharp101\kurucu_metotlar\bin\Debug\net5.0\kurucu_metotlar.exe
+D:\PatikaDev\Patika_C#\Csharp101\kurucu_metotlar\bin\Debug\net5.0\kurucu_metotlar.deps.json
+D:\PatikaDev\Patika_C#\Csharp101\kurucu_metotlar\bin\Debug\net5.0\kurucu_metotlar.runtimeconfig.json
+D:\PatikaDev\Patika_C#\Csharp101\kurucu_metotlar\bin\Debug\net5.0\kurucu_metotlar.runtimeconfig.dev.json
+D:\PatikaDev\Patika_C#\Csharp101\kurucu_metotlar\bin\Debug\net5.0\kurucu_metotlar.dll
+D:\PatikaDev\Patika_C#\Csharp101\kurucu_metotlar\bin\Debug\net5.0\ref\kurucu_metotlar.dll
+D:\PatikaDev\Patika_C#\Csharp101\kurucu_metotlar\bin\Debug\net5.0\kurucu_metotlar.pdb
+D:\PatikaDev\Patika_C#\Csharp101\kurucu_metotlar\obj\Debug\net5.0\kurucu_metotlar.csprojAssemblyReference.cache
+D:\PatikaDev\Patika_C#\Csharp101\kurucu_metotlar\obj\Debug\net5.0\kurucu_metotlar.GeneratedMSBuildEditorConfig.editorconfig
+D:\PatikaDev\Patika_C#\Csharp101\kurucu_metotlar\obj\Debug\net5.0\kurucu_metotlar.AssemblyInfoInputs.cache
+D:\PatikaDev\Patika_C#\Csharp101\kurucu_metotlar\obj\Debug\net5.0\kurucu_metotlar.AssemblyInfo.cs
+D:\PatikaDev\Patika_C#\Csharp101\kurucu_metotlar\obj\Debug\net5.0\kurucu_metotlar.csproj.CoreCompileInputs.cache
+D:\PatikaDev\Patika_C#\Csharp101\kurucu_metotlar\obj\Debug\net5.0\kurucu_metotlar.dll
+D:\PatikaDev\Patika_C#\Csharp101\kurucu_metotlar\obj\Debug\net5.0\ref\kurucu_metotlar.dll
+D:\PatikaDev\Patika_C#\Csharp101\kurucu_metotlar\obj\Debug\net5.0\kurucu_metotlar.pdb
+D:\PatikaDev\Patika_C#\Csharp101\kurucu_metotlar\obj\Debug\net5.0\kurucu_metotlar.genruntimeconfig.cache
