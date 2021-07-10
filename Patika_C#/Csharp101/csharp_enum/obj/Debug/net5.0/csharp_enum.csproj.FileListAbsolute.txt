@@ -1,0 +1,16 @@
+D:\PatikaDev\Patika_C#\Csharp101\csharp_enum\bin\Debug\net5.0\csharp_enum.exe
+D:\PatikaDev\Patika_C#\Csharp101\csharp_enum\bin\Debug\net5.0\csharp_enum.deps.json
+D:\PatikaDev\Patika_C#\Csharp101\csharp_enum\bin\Debug\net5.0\csharp_enum.runtimeconfig.json
+D:\PatikaDev\Patika_C#\Csharp101\csharp_enum\bin\Debug\net5.0\csharp_enum.runtimeconfig.dev.json
+D:\PatikaDev\Patika_C#\Csharp101\csharp_enum\bin\Debug\net5.0\csharp_enum.dll
+D:\PatikaDev\Patika_C#\Csharp101\csharp_enum\bin\Debug\net5.0\ref\csharp_enum.dll
+D:\PatikaDev\Patika_C#\Csharp101\csharp_enum\bin\Debug\net5.0\csharp_enum.pdb
+D:\PatikaDev\Patika_C#\Csharp101\csharp_enum\obj\Debug\net5.0\csharp_enum.csprojAssemblyReference.cache
+D:\PatikaDev\Patika_C#\Csharp101\csharp_enum\obj\Debug\net5.0\csharp_enum.GeneratedMSBuildEditorConfig.editorconfig
+D:\PatikaDev\Patika_C#\Csharp101\csharp_enum\obj\Debug\net5.0\csharp_enum.AssemblyInfoInputs.cache
+D:\PatikaDev\Patika_C#\Csharp101\csharp_enum\obj\Debug\net5.0\csharp_enum.AssemblyInfo.cs
+D:\PatikaDev\Patika_C#\Csharp101\csharp_enum\obj\Debug\net5.0\csharp_enum.csproj.CoreCompileInputs.cache
+D:\PatikaDev\Patika_C#\Csharp101\csharp_enum\obj\Debug\net5.0\csharp_enum.dll
+D:\PatikaDev\Patika_C#\Csharp101\csharp_enum\obj\Debug\net5.0\ref\csharp_enum.dll
+D:\PatikaDev\Patika_C#\Csharp101\csharp_enum\obj\Debug\net5.0\csharp_enum.pdb
+D:\PatikaDev\Patika_C#\Csharp101\csharp_enum\obj\Debug\net5.0\csharp_enum.genruntimeconfig.cache
