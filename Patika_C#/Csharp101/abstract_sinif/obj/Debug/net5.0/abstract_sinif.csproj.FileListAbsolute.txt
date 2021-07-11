@@ -1,0 +1,16 @@
+D:\PatikaDev\Patika_C#\Csharp101\abstract_sinif\bin\Debug\net5.0\abstract_sinif.exe
+D:\PatikaDev\Patika_C#\Csharp101\abstract_sinif\bin\Debug\net5.0\abstract_sinif.deps.json
+D:\PatikaDev\Patika_C#\Csharp101\abstract_sinif\bin\Debug\net5.0\abstract_sinif.runtimeconfig.json
+D:\PatikaDev\Patika_C#\Csharp101\abstract_sinif\bin\Debug\net5.0\abstract_sinif.runtimeconfig.dev.json
+D:\PatikaDev\Patika_C#\Csharp101\abstract_sinif\bin\Debug\net5.0\abstract_sinif.dll
+D:\PatikaDev\Patika_C#\Csharp101\abstract_sinif\bin\Debug\net5.0\ref\abstract_sinif.dll
+D:\PatikaDev\Patika_C#\Csharp101\abstract_sinif\bin\Debug\net5.0\abstract_sinif.pdb
+D:\PatikaDev\Patika_C#\Csharp101\abstract_sinif\obj\Debug\net5.0\abstract_sinif.csprojAssemblyReference.cache
+D:\PatikaDev\Patika_C#\Csharp101\abstract_sinif\obj\Debug\net5.0\abstract_sinif.GeneratedMSBuildEditorConfig.editorconfig
+D:\PatikaDev\Patika_C#\Csharp101\abstract_sinif\obj\Debug\net5.0\abstract_sinif.AssemblyInfoInputs.cache
+D:\PatikaDev\Patika_C#\Csharp101\abstract_sinif\obj\Debug\net5.0\abstract_sinif.AssemblyInfo.cs
+D:\PatikaDev\Patika_C#\Csharp101\abstract_sinif\obj\Debug\net5.0\abstract_sinif.csproj.CoreCompileInputs.cache
+D:\PatikaDev\Patika_C#\Csharp101\abstract_sinif\obj\Debug\net5.0\abstract_sinif.dll
+D:\PatikaDev\Patika_C#\Csharp101\abstract_sinif\obj\Debug\net5.0\ref\abstract_sinif.dll
+D:\PatikaDev\Patika_C#\Csharp101\abstract_sinif\obj\Debug\net5.0\abstract_sinif.pdb
+D:\PatikaDev\Patika_C#\Csharp101\abstract_sinif\obj\Debug\net5.0\abstract_sinif.genruntimeconfig.cache
