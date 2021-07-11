@@ -1,0 +1,16 @@
+D:\PatikaDev\Patika_C#\Csharp101\polymorphism\bin\Debug\net5.0\polymorphism.exe
+D:\PatikaDev\Patika_C#\Csharp101\polymorphism\bin\Debug\net5.0\polymorphism.deps.json
+D:\PatikaDev\Patika_C#\Csharp101\polymorphism\bin\Debug\net5.0\polymorphism.runtimeconfig.json
+D:\PatikaDev\Patika_C#\Csharp101\polymorphism\bin\Debug\net5.0\polymorphism.runtimeconfig.dev.json
+D:\PatikaDev\Patika_C#\Csharp101\polymorphism\bin\Debug\net5.0\polymorphism.dll
+D:\PatikaDev\Patika_C#\Csharp101\polymorphism\bin\Debug\net5.0\ref\polymorphism.dll
+D:\PatikaDev\Patika_C#\Csharp101\polymorphism\bin\Debug\net5.0\polymorphism.pdb
+D:\PatikaDev\Patika_C#\Csharp101\polymorphism\obj\Debug\net5.0\polymorphism.csprojAssemblyReference.cache
+D:\PatikaDev\Patika_C#\Csharp101\polymorphism\obj\Debug\net5.0\polymorphism.GeneratedMSBuildEditorConfig.editorconfig
+D:\PatikaDev\Patika_C#\Csharp101\polymorphism\obj\Debug\net5.0\polymorphism.AssemblyInfoInputs.cache
+D:\PatikaDev\Patika_C#\Csharp101\polymorphism\obj\Debug\net5.0\polymorphism.AssemblyInfo.cs
+D:\PatikaDev\Patika_C#\Csharp101\polymorphism\obj\Debug\net5.0\polymorphism.csproj.CoreCompileInputs.cache
+D:\PatikaDev\Patika_C#\Csharp101\polymorphism\obj\Debug\net5.0\polymorphism.dll
+D:\PatikaDev\Patika_C#\Csharp101\polymorphism\obj\Debug\net5.0\ref\polymorphism.dll
+D:\PatikaDev\Patika_C#\Csharp101\polymorphism\obj\Debug\net5.0\polymorphism.pdb
+D:\PatikaDev\Patika_C#\Csharp101\polymorphism\obj\Debug\net5.0\polymorphism.genruntimeconfig.cache
