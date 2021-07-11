@@ -1,0 +1,16 @@
+D:\PatikaDev\Patika_C#\Csharp101\arayüz\bin\Debug\net5.0\arayüz.exe
+D:\PatikaDev\Patika_C#\Csharp101\arayüz\bin\Debug\net5.0\arayüz.deps.json
+D:\PatikaDev\Patika_C#\Csharp101\arayüz\bin\Debug\net5.0\arayüz.runtimeconfig.json
+D:\PatikaDev\Patika_C#\Csharp101\arayüz\bin\Debug\net5.0\arayüz.runtimeconfig.dev.json
+D:\PatikaDev\Patika_C#\Csharp101\arayüz\bin\Debug\net5.0\arayüz.dll
+D:\PatikaDev\Patika_C#\Csharp101\arayüz\bin\Debug\net5.0\ref\arayüz.dll
+D:\PatikaDev\Patika_C#\Csharp101\arayüz\bin\Debug\net5.0\arayüz.pdb
+D:\PatikaDev\Patika_C#\Csharp101\arayüz\obj\Debug\net5.0\arayüz.csprojAssemblyReference.cache
+D:\PatikaDev\Patika_C#\Csharp101\arayüz\obj\Debug\net5.0\arayüz.GeneratedMSBuildEditorConfig.editorconfig
+D:\PatikaDev\Patika_C#\Csharp101\arayüz\obj\Debug\net5.0\arayüz.AssemblyInfoInputs.cache
+D:\PatikaDev\Patika_C#\Csharp101\arayüz\obj\Debug\net5.0\arayüz.AssemblyInfo.cs
+D:\PatikaDev\Patika_C#\Csharp101\arayüz\obj\Debug\net5.0\arayüz.csproj.CoreCompileInputs.cache
+D:\PatikaDev\Patika_C#\Csharp101\arayüz\obj\Debug\net5.0\arayüz.dll
+D:\PatikaDev\Patika_C#\Csharp101\arayüz\obj\Debug\net5.0\ref\arayüz.dll
+D:\PatikaDev\Patika_C#\Csharp101\arayüz\obj\Debug\net5.0\arayüz.pdb
+D:\PatikaDev\Patika_C#\Csharp101\arayüz\obj\Debug\net5.0\arayüz.genruntimeconfig.cache
