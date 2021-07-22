@@ -4,6 +4,7 @@ using System.Linq;
 using Microsoft.AspNetCore.Mvc;
 using Webapi.BookOperations.CreateBookCommand;
 using Webapi.BookOperations.GetBooks;
+using Webapi.BookOperations.UpdateBook;
 using Webapi.DBOperations;
 
 namespace Webapi.Controllers
@@ -55,10 +56,11 @@ namespace Webapi.Controllers
         }
 
         [HttpGet("{id}")]
-        public Book GetById(int id)
+        public IActionResult GetById(int id)
         {
-            var book = _context.Books.Where(book => book.Id == id).SingleOrDefault();
-            return book;
+            GetByIdQuery byIdQuery = new GetByIdQuery(_context);
+            var result = byIdQuery.Handle(id);
+            return Ok(result);
         }
 
         // [HttpGet]
@@ -88,18 +90,20 @@ namespace Webapi.Controllers
         }
 
         [HttpPut("{id}")]
-        public IActionResult UpdateBook(int id, [FromBody] Book updatedBook)
+        public IActionResult UpdateBook(int id, [FromBody] UpdateBookModel updatedBook)
         {
-            var book = _context.Books.SingleOrDefault(x => x.Id == id);
-            if (book is null)
+            UpdateBookCommand updatedCommand = new UpdateBookCommand(_context, id);
+            try
             {
-                return BadRequest();
+                updatedCommand.updatedModel = updatedBook;
+                updatedCommand.Handle();
             }
-            book.GenreId = updatedBook.GenreId != default ? updatedBook.GenreId : book.GenreId;
-            book.PageCount = updatedBook.PageCount != default ? updatedBook.PageCount : book.PageCount;
-            book.PublishDate = updatedBook.PublishDate != default ? updatedBook.PublishDate : book.PublishDate;
-            book.Title = updatedBook.Title != default ? updatedBook.Title : book.Title;
-            _context.SaveChanges();
+            catch (Exception ex)
+            {
+
+                return BadRequest(ex.Message);
+            }
+
             return Ok();
         }
 

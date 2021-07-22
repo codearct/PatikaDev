@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wySz+BdIMGb2LjHwQy5wGv9jzWBmJJ2alCPcImQM855Q3Ajeb5MQ2FS7kuMup9Gz5FCICXshnX3uQ9mrPcwO+Q==",
+  "dgSpecHash": "0FwzA/is/OmEhxHJ5rsENLcXqlMOvrJI4KTgXU6+PoxXg/nDDbxDytat1p6xvTISvdX5Yw7zlGKKBurRGGubRg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Akif\\OneDrive\\Masaüstü\\dotnet\\BookStore\\Webapi\\Webapi.csproj",
+  "projectFilePath": "D:\\PatikaDev\\dotnet\\BookStore\\Webapi\\Webapi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Akif\\.nuget\\packages\\microsoft.entityframeworkcore\\5.0.6\\microsoft.entityframeworkcore.5.0.6.nupkg.sha512",
     "C:\\Users\\Akif\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\5.0.6\\microsoft.entityframeworkcore.abstractions.5.0.6.nupkg.sha512",

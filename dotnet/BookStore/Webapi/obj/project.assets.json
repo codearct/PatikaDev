@@ -741,11 +741,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Akif\\OneDrive\\Masaüstü\\dotnet\\Bookstore\\Webapi\\Webapi.csproj",
+      "projectUniqueName": "D:\\PatikaDev\\dotnet\\BookStore\\Webapi\\Webapi.csproj",
       "projectName": "Webapi",
-      "projectPath": "C:\\Users\\Akif\\OneDrive\\Masaüstü\\dotnet\\Bookstore\\Webapi\\Webapi.csproj",
+      "projectPath": "D:\\PatikaDev\\dotnet\\BookStore\\Webapi\\Webapi.csproj",
       "packagesPath": "C:\\Users\\Akif\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Akif\\OneDrive\\Masaüstü\\dotnet\\Bookstore\\Webapi\\obj\\",
+      "outputPath": "D:\\PatikaDev\\dotnet\\BookStore\\Webapi\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Akif\\AppData\\Roaming\\NuGet\\NuGet.Config",
