@@ -10,15 +10,22 @@ namespace Webapi.BookOperations.GetBooks
     public class GetByIdQuery
     {
         private readonly BookStoreDbContext _dbContext;
+        public int BookId;
         public GetByIdQuery(BookStoreDbContext dbContext)
         {
             _dbContext = dbContext;
         }
-        public BookByIdViewModel Handle(int id)
+        public BookByIdViewModel Handle()
         {
 
             BookByIdViewModel vmBook = new BookByIdViewModel();
-            var book = _dbContext.Books.Where(book => book.Id == id).SingleOrDefault();
+
+            var book = _dbContext.Books.Where(book => book.Id == BookId).SingleOrDefault();
+
+            if (book is null)
+            {
+                throw new InvalidOperationException("Kitap bulunamadı!");
+            }
 
             vmBook.Title = book.Title;
             vmBook.PageCount = book.PageCount;

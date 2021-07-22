@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using Microsoft.AspNetCore.Mvc;
 using Webapi.BookOperations.CreateBookCommand;
+using Webapi.BookOperations.DeleteBook;
 using Webapi.BookOperations.GetBooks;
 using Webapi.BookOperations.UpdateBook;
 using Webapi.DBOperations;
@@ -18,34 +19,6 @@ namespace Webapi.Controllers
         {
             _context = context;
         }
-        // private static List<Book> BookList = new List<Book>()
-        // {
-        //     new Book
-        //     {
-        //         Id=1,
-        //         Title="Lean Startup",
-        //         GenreId=1, //Personal Growth
-        //         PageCount=200,
-        //         PublishDate=new DateTime(2001,06,12)
-        //     },
-        //     new Book
-        //     {
-        //         Id=2,
-        //         Title="Herland",
-        //         GenreId=2, //Science Fiction
-        //         PageCount=250,
-        //         PublishDate=new DateTime(2010,05,23)
-        //     },
-        //     new Book
-        //     {
-        //         Id=3,
-        //         Title="Dune",
-        //         GenreId=2, //Science Fiction
-        //         PageCount=540,
-        //         PublishDate=new DateTime(2001,12,21)
-        //     }
-
-        // };
 
         [HttpGet]
         public IActionResult GetBooks()
@@ -58,17 +31,20 @@ namespace Webapi.Controllers
         [HttpGet("{id}")]
         public IActionResult GetById(int id)
         {
-            GetByIdQuery byIdQuery = new GetByIdQuery(_context);
-            var result = byIdQuery.Handle(id);
+            BookByIdViewModel result;
+            try
+            {
+                GetByIdQuery byIdQuery = new GetByIdQuery(_context);
+                byIdQuery.BookId = id;
+                result = byIdQuery.Handle();
+            }
+            catch (Exception ex)
+            {
+                return BadRequest(ex.Message);
+            }
+
             return Ok(result);
         }
-
-        // [HttpGet]
-        // public Book GetBooks([FromQuery] string id)
-        // {
-        //     var book = BookList.Where(book => book.Id == Convert.ToInt32(id)).SingleOrDefault();
-        //     return book;
-        // }
 
         //Post
         [HttpPost]
@@ -92,9 +68,10 @@ namespace Webapi.Controllers
         [HttpPut("{id}")]
         public IActionResult UpdateBook(int id, [FromBody] UpdateBookModel updatedBook)
         {
-            UpdateBookCommand updatedCommand = new UpdateBookCommand(_context, id);
+            UpdateBookCommand updatedCommand = new UpdateBookCommand(_context);
             try
             {
+                updatedCommand.BookId = id;
                 updatedCommand.updatedModel = updatedBook;
                 updatedCommand.Handle();
             }
@@ -111,13 +88,16 @@ namespace Webapi.Controllers
 
         public IActionResult DeleteBook(int id)
         {
-            var book = _context.Books.SingleOrDefault(book => book.Id == id);
-            if (book is null)
+            try
             {
-                return BadRequest();
+                DeleteBookCommand command = new DeleteBookCommand(_context);
+                command.BookId = id;
+                command.Handle();
             }
-            _context.Books.Remove(book);
-            _context.SaveChanges();
+            catch (Exception ex)
+            {
+                return BadRequest(ex.Message);
+            }
             return Ok();
         }
     }
