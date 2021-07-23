@@ -6,7 +6,7 @@ using Microsoft.AspNetCore.Mvc;
 using Webapi.Common;
 using Webapi.DBOperations;
 
-namespace Webapi.BookOperations.CreateBookCommand
+namespace Webapi.BookOperations.CreateBook
 {
     public class CreateBookCommand
     {
@@ -26,11 +26,6 @@ namespace Webapi.BookOperations.CreateBookCommand
                 throw new InvalidOperationException("Kitap zaten mevcut!");
             }
             book = _mapper.Map<Book>(Model);
-            //=new Book();
-            // book.Title = Model.Title;
-            // book.PublishDate = Model.PublishDate;
-            // book.PageCount = Model.PageCount;
-            // book.GenreId = Model.GenreId;
 
             _dbContext.Books.Add(book);
             _dbContext.SaveChanges();

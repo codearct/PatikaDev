@@ -2,8 +2,10 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using AutoMapper;
+using FluentValidation;
+using FluentValidation.Results;
 using Microsoft.AspNetCore.Mvc;
-using Webapi.BookOperations.CreateBookCommand;
+using Webapi.BookOperations.CreateBook;
 using Webapi.BookOperations.DeleteBook;
 using Webapi.BookOperations.GetBooks;
 using Webapi.BookOperations.UpdateBook;
@@ -39,6 +41,8 @@ namespace Webapi.Controllers
             {
                 GetByIdQuery byIdQuery = new GetByIdQuery(_context, _mapper);
                 byIdQuery.BookId = id;
+                GetByIdQueryValidator validator = new GetByIdQueryValidator();
+                validator.ValidateAndThrow(byIdQuery);
                 result = byIdQuery.Handle();
             }
             catch (Exception ex)
@@ -57,7 +61,22 @@ namespace Webapi.Controllers
             try
             {
                 command.Model = newBook;
+                CreateBookCommandValidator validator = new CreateBookCommandValidator();
+                validator.ValidateAndThrow(command);
                 command.Handle();
+                // if (!result.IsValid)
+                // {
+                //     foreach (var item in result.Errors)
+                //     {
+                //         Console.WriteLine("Özellik: " + item.PropertyName + "- Error Message: " + item.ErrorMessage);
+                //     }
+                // }
+                // else
+                // {
+                //     command.Handle();
+                // }
+
+
             }
             catch (Exception ex)
             {
@@ -76,6 +95,8 @@ namespace Webapi.Controllers
             {
                 updatedCommand.BookId = id;
                 updatedCommand.updatedModel = updatedBook;
+                UpdateBookCommandValidator validator = new UpdateBookCommandValidator();
+                validator.ValidateAndThrow(updatedCommand);
                 updatedCommand.Handle();
             }
             catch (Exception ex)
@@ -95,6 +116,8 @@ namespace Webapi.Controllers
             {
                 DeleteBookCommand command = new DeleteBookCommand(_context);
                 command.BookId = id;
+                DeleteBookCommandValidator validator = new DeleteBookCommandValidator();
+                validator.ValidateAndThrow(command);
                 command.Handle();
             }
             catch (Exception ex)

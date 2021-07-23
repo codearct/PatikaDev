@@ -1,5 +1,5 @@
 using AutoMapper;
-using Webapi.BookOperations.CreateBookCommand;
+using Webapi.BookOperations.CreateBook;
 using Webapi.BookOperations.GetBooks;
 
 namespace Webapi.Common
