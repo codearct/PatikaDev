@@ -66,3 +66,5 @@ D:\PatikaDev\dotnet\BookStore\Webapi\obj\Debug\net5.0\Webapi.dll
 D:\PatikaDev\dotnet\BookStore\Webapi\obj\Debug\net5.0\ref\Webapi.dll
 D:\PatikaDev\dotnet\BookStore\Webapi\obj\Debug\net5.0\Webapi.pdb
 D:\PatikaDev\dotnet\BookStore\Webapi\obj\Debug\net5.0\Webapi.genruntimeconfig.cache
+D:\PatikaDev\dotnet\BookStore\Webapi\bin\Debug\net5.0\AutoMapper.dll
+D:\PatikaDev\dotnet\BookStore\Webapi\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
