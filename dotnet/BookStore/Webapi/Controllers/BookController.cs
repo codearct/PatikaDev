@@ -37,18 +37,12 @@ namespace Webapi.Controllers
         public IActionResult GetById(int id)
         {
             BookByIdViewModel result;
-            try
-            {
-                GetByIdQuery byIdQuery = new GetByIdQuery(_context, _mapper);
-                byIdQuery.BookId = id;
-                GetByIdQueryValidator validator = new GetByIdQueryValidator();
-                validator.ValidateAndThrow(byIdQuery);
-                result = byIdQuery.Handle();
-            }
-            catch (Exception ex)
-            {
-                return BadRequest(ex.Message);
-            }
+
+            GetByIdQuery byIdQuery = new GetByIdQuery(_context, _mapper);
+            byIdQuery.BookId = id;
+            GetByIdQueryValidator validator = new GetByIdQueryValidator();
+            validator.ValidateAndThrow(byIdQuery);
+            result = byIdQuery.Handle();
 
             return Ok(result);
         }
@@ -58,31 +52,11 @@ namespace Webapi.Controllers
         public IActionResult AddBook([FromBody] CreateBookModel newBook)
         {
             CreateBookCommand command = new CreateBookCommand(_context, _mapper);
-            try
-            {
-                command.Model = newBook;
-                CreateBookCommandValidator validator = new CreateBookCommandValidator();
-                validator.ValidateAndThrow(command);
-                command.Handle();
-                // if (!result.IsValid)
-                // {
-                //     foreach (var item in result.Errors)
-                //     {
-                //         Console.WriteLine("Özellik: " + item.PropertyName + "- Error Message: " + item.ErrorMessage);
-                //     }
-                // }
-                // else
-                // {
-                //     command.Handle();
-                // }
 
-
-            }
-            catch (Exception ex)
-            {
-
-                return BadRequest(ex.Message);
-            }
+            command.Model = newBook;
+            CreateBookCommandValidator validator = new CreateBookCommandValidator();
+            validator.ValidateAndThrow(command);
+            command.Handle();
 
             return Ok();
         }
@@ -91,19 +65,12 @@ namespace Webapi.Controllers
         public IActionResult UpdateBook(int id, [FromBody] UpdateBookModel updatedBook)
         {
             UpdateBookCommand updatedCommand = new UpdateBookCommand(_context);
-            try
-            {
-                updatedCommand.BookId = id;
-                updatedCommand.updatedModel = updatedBook;
-                UpdateBookCommandValidator validator = new UpdateBookCommandValidator();
-                validator.ValidateAndThrow(updatedCommand);
-                updatedCommand.Handle();
-            }
-            catch (Exception ex)
-            {
 
-                return BadRequest(ex.Message);
-            }
+            updatedCommand.BookId = id;
+            updatedCommand.updatedModel = updatedBook;
+            UpdateBookCommandValidator validator = new UpdateBookCommandValidator();
+            validator.ValidateAndThrow(updatedCommand);
+            updatedCommand.Handle();
 
             return Ok();
         }
@@ -112,18 +79,12 @@ namespace Webapi.Controllers
 
         public IActionResult DeleteBook(int id)
         {
-            try
-            {
-                DeleteBookCommand command = new DeleteBookCommand(_context);
-                command.BookId = id;
-                DeleteBookCommandValidator validator = new DeleteBookCommandValidator();
-                validator.ValidateAndThrow(command);
-                command.Handle();
-            }
-            catch (Exception ex)
-            {
-                return BadRequest(ex.Message);
-            }
+            DeleteBookCommand command = new DeleteBookCommand(_context);
+            command.BookId = id;
+            DeleteBookCommandValidator validator = new DeleteBookCommandValidator();
+            validator.ValidateAndThrow(command);
+            command.Handle();
+
             return Ok();
         }
     }

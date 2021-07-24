@@ -69,3 +69,4 @@ D:\PatikaDev\dotnet\BookStore\Webapi\obj\Debug\net5.0\Webapi.genruntimeconfig.ca
 D:\PatikaDev\dotnet\BookStore\Webapi\bin\Debug\net5.0\AutoMapper.dll
 D:\PatikaDev\dotnet\BookStore\Webapi\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
 D:\PatikaDev\dotnet\BookStore\Webapi\bin\Debug\net5.0\FluentValidation.dll
+D:\PatikaDev\dotnet\BookStore\Webapi\bin\Debug\net5.0\Newtonsoft.Json.dll
