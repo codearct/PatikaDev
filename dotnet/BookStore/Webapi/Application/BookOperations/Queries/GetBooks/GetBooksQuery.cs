@@ -3,10 +3,12 @@ using System.Collections.Generic;
 using System.Linq;
 using AutoMapper;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
 using Webapi.Common;
 using Webapi.DBOperations;
+using Webapi.Entities;
 
-namespace Webapi.BookOperations.GetBooks
+namespace Webapi.Application.BookOperations.Queries.GetBooks
 {
     public class GetBooksQuery
     {
@@ -19,7 +21,7 @@ namespace Webapi.BookOperations.GetBooks
         }
         public List<BooksViewModel> Handle()
         {
-            var bookList = _dbContext.Books.OrderBy(x => x.Id).ToList<Book>();
+            var bookList = _dbContext.Books.Include(x => x.Genre).OrderBy(x => x.Id).ToList<Book>();
             List<BooksViewModel> vm = _mapper.Map<List<BooksViewModel>>(bookList);
             //= new List<BooksViewModel>();
             // foreach (var book in bookList)

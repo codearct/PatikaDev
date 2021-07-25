@@ -4,8 +4,9 @@ using System.Linq;
 using Microsoft.AspNetCore.Mvc;
 using Webapi.Common;
 using Webapi.DBOperations;
+using Webapi.Entities;
 
-namespace Webapi.BookOperations.UpdateBook
+namespace Webapi.Application.BookOperations.Commands.UpdateBook
 {
     public class UpdateBookCommand
     {
@@ -25,7 +26,6 @@ namespace Webapi.BookOperations.UpdateBook
                 throw new InvalidOperationException("Aradığınız kitap bulunamadı!");
             }
 
-            book = new Book();
             book.GenreId = updatedModel.GenreId != default ? updatedModel.GenreId : book.GenreId;
             book.PageCount = updatedModel.PageCount != default ? updatedModel.PageCount : book.PageCount;
             book.PublishDate = updatedModel.PublishDate != default ? updatedModel.PublishDate : book.PublishDate;
