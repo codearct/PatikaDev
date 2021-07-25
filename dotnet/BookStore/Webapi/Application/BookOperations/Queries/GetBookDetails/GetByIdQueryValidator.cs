@@ -1,6 +1,5 @@
 using System;
 using FluentValidation;
-using Webapi.Application.BookOperations.Queries.GetBookDetails;
 
 namespace Webapi.Application.BookOperations.Queries.GetBookDetails
 {

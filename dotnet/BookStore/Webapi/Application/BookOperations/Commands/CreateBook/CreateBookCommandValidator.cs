@@ -11,6 +11,7 @@ namespace Webapi.Application.BookOperations.Commands.CreateBook
             RuleFor(command => command.Model.PageCount).GreaterThan(0);
             RuleFor(command => command.Model.PublishDate.Date).NotEmpty().LessThan(DateTime.Now.Date);
             RuleFor(command => command.Model.Title).NotEmpty().MinimumLength(4);
+            RuleFor(Command => Command.Model.AuthorId).GreaterThan(0);
         }
     }
 }

@@ -12,6 +12,7 @@ namespace Webapi.Application.BookOperations.Commands.UpdateBook
             RuleFor(updatedCommand => updatedCommand.updatedModel.PageCount).GreaterThan(0);
             RuleFor(updatedCommand => updatedCommand.updatedModel.PublishDate.Date).NotEmpty().LessThan(DateTime.Now.Date);
             RuleFor(updatedCommand => updatedCommand.updatedModel.Title).NotEmpty().MinimumLength(4);
+            RuleFor(updatedCommand => updatedCommand.updatedModel.AuthorId).GreaterThan(0);
         }
     }
 }

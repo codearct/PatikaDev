@@ -5,6 +5,9 @@ using Webapi.Application.BookOperations.Queries.GetBooks;
 using Webapi.Entities;
 using Webapi.Application.GenreOperations.Queries.GetGenreDetails;
 using Webapi.Application.GenreOperations.Queries.GetGenres;
+using Webapi.Application.AuthorOperations.Queries.GetAuthors;
+using Webapi.Application.AuthorOperations.Queries.GetAuthorDetails;
+using Webapi.Application.AuthorOperations.Commands.CreateAuthor;
 
 namespace Webapi.Common
 {
@@ -13,10 +16,15 @@ namespace Webapi.Common
         public MappingProfile()
         {
             CreateMap<CreateBookModel, Book>();
-            CreateMap<Book, BookByIdViewModel>().ForMember(dest => dest.Genre, opt => opt.MapFrom(src => src.Genre.Name));
-            CreateMap<Book, BooksViewModel>().ForMember(dest => dest.Genre, opt => opt.MapFrom(src => src.Genre.Name));
+            CreateMap<Book, BookByIdViewModel>().ForMember(dest => dest.Genre, opt => opt.MapFrom(src => src.Genre.Name))
+                                                .ForMember(dest => dest.Author, opt => opt.MapFrom(src => src.Author.Name + " " + src.Author.Surname));
+            CreateMap<Book, BooksViewModel>().ForMember(dest => dest.Genre, opt => opt.MapFrom(src => src.Genre.Name))
+                                             .ForMember(dest => dest.Author, opt => opt.MapFrom(src => src.Author.Name + " " + src.Author.Surname));
             CreateMap<Genre, GenresViewModel>();
             CreateMap<Genre, GenreDetailsViewModel>();
+            CreateMap<Author, AuthorsViewModel>();
+            CreateMap<Author, AuthorByIdViewModel>();
+            CreateMap<CreateAuthorModel, Author>();
         }
     }
 }
