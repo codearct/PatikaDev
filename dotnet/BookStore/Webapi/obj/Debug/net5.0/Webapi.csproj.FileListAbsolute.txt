@@ -41,11 +41,15 @@ D:\PatikaDev\dotnet\BookStore\Webapi\bin\Debug\net5.0\Webapi.runtimeconfig.dev.j
 D:\PatikaDev\dotnet\BookStore\Webapi\bin\Debug\net5.0\Webapi.dll
 D:\PatikaDev\dotnet\BookStore\Webapi\bin\Debug\net5.0\ref\Webapi.dll
 D:\PatikaDev\dotnet\BookStore\Webapi\bin\Debug\net5.0\Webapi.pdb
+D:\PatikaDev\dotnet\BookStore\Webapi\bin\Debug\net5.0\AutoMapper.dll
+D:\PatikaDev\dotnet\BookStore\Webapi\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\PatikaDev\dotnet\BookStore\Webapi\bin\Debug\net5.0\FluentValidation.dll
 D:\PatikaDev\dotnet\BookStore\Webapi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
 D:\PatikaDev\dotnet\BookStore\Webapi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
 D:\PatikaDev\dotnet\BookStore\Webapi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.InMemory.dll
 D:\PatikaDev\dotnet\BookStore\Webapi\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
 D:\PatikaDev\dotnet\BookStore\Webapi\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\PatikaDev\dotnet\BookStore\Webapi\bin\Debug\net5.0\Newtonsoft.Json.dll
 D:\PatikaDev\dotnet\BookStore\Webapi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
 D:\PatikaDev\dotnet\BookStore\Webapi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 D:\PatikaDev\dotnet\BookStore\Webapi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
@@ -66,7 +70,3 @@ D:\PatikaDev\dotnet\BookStore\Webapi\obj\Debug\net5.0\Webapi.dll
 D:\PatikaDev\dotnet\BookStore\Webapi\obj\Debug\net5.0\ref\Webapi.dll
 D:\PatikaDev\dotnet\BookStore\Webapi\obj\Debug\net5.0\Webapi.pdb
 D:\PatikaDev\dotnet\BookStore\Webapi\obj\Debug\net5.0\Webapi.genruntimeconfig.cache
-D:\PatikaDev\dotnet\BookStore\Webapi\bin\Debug\net5.0\AutoMapper.dll
-D:\PatikaDev\dotnet\BookStore\Webapi\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
-D:\PatikaDev\dotnet\BookStore\Webapi\bin\Debug\net5.0\FluentValidation.dll
-D:\PatikaDev\dotnet\BookStore\Webapi\bin\Debug\net5.0\Newtonsoft.Json.dll
