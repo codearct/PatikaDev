@@ -40,7 +40,7 @@ namespace Application.BookOperations.Commands.CreateBook
 
         }
         [Fact]
-        public void WhenValidİnputsAreGiven_Book_ShouldBeCreated()
+        public void WhenValidInputsAreGiven_Book_ShouldBeCreated()
         {
             CreateBookCommand command = new CreateBookCommand(_context, _mapper);
             CreateBookModel model = new CreateBookModel()
