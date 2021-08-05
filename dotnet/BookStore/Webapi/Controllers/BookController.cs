@@ -11,9 +11,11 @@ using Webapi.Application.BookOperations.Commands.DeleteBook;
 using Webapi.Application.BookOperations.Commands.UpdateBook;
 using Webapi.Application.BookOperations.Queries.GetBooks;
 using Webapi.DBOperations;
+using Microsoft.AspNetCore.Authorization;
 
 namespace Webapi.Controllers
 {
+    [Authorize]
     [ApiController]
     [Route("[controller]s")]
     public class BookController : ControllerBase

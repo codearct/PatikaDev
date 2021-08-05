@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\PatikaDev\\dotnet\\BookStore\\Webapi\\Webapi.csproj": {}
+    "D:\\PatikaDev\\dotnet\\BookStore\\Webapi\\Webapi.csproj": {}
   },
   "projects": {
-    "d:\\PatikaDev\\dotnet\\BookStore\\Webapi\\Webapi.csproj": {
+    "D:\\PatikaDev\\dotnet\\BookStore\\Webapi\\Webapi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\PatikaDev\\dotnet\\BookStore\\Webapi\\Webapi.csproj",
+        "projectUniqueName": "D:\\PatikaDev\\dotnet\\BookStore\\Webapi\\Webapi.csproj",
         "projectName": "Webapi",
-        "projectPath": "d:\\PatikaDev\\dotnet\\BookStore\\Webapi\\Webapi.csproj",
+        "projectPath": "D:\\PatikaDev\\dotnet\\BookStore\\Webapi\\Webapi.csproj",
         "packagesPath": "C:\\Users\\Akif\\.nuget\\packages\\",
-        "outputPath": "d:\\PatikaDev\\dotnet\\BookStore\\Webapi\\obj\\",
+        "outputPath": "D:\\PatikaDev\\dotnet\\BookStore\\Webapi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Akif\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -51,6 +51,10 @@
             "FluentValidation": {
               "target": "Package",
               "version": "[10.3.0, )"
+            },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[5.0.8, )"
             },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",

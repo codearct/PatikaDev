@@ -8,6 +8,7 @@ using Webapi.Application.GenreOperations.Queries.GetGenres;
 using Webapi.Application.AuthorOperations.Queries.GetAuthors;
 using Webapi.Application.AuthorOperations.Queries.GetAuthorDetails;
 using Webapi.Application.AuthorOperations.Commands.CreateAuthor;
+using Webapi.Application.UserOperations.Commands.CreateUser;
 
 namespace Webapi.Common
 {
@@ -25,6 +26,7 @@ namespace Webapi.Common
             CreateMap<Author, AuthorsViewModel>();
             CreateMap<Author, AuthorByIdViewModel>();
             CreateMap<CreateAuthorModel, Author>();
+            CreateMap<CreateUserModel, User>();
         }
     }
 }
