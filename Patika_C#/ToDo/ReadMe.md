@@ -1,0 +1,126 @@
+# ToDo Uygulaması
+3 kolondan oluşan bir TODO console uygulaması.
+Uygulamada olan özellikler aşağıdaki gibidir.
+
+* Kart Ekle
+* Kart Sil
+* Kart Taşı
+* Board Listeleme
+
+**Kart İçeriği:**
+
+* Baslık
+* Icerik
+* Atanan Kisi (Takım üyelerişnden biri olmalı)
+* Büyüklük (XS, S, M, L, XL)
+
+**Açıklama:**
+
+* Board TODO - IN PROGRESS - DONE kolonlarından oluşur.
+
+* Varsayılan olarak bir board tanımlandı ve 3 tane de kart atandı.(Kartlar herhangi bir line'a yani kolona rastgele atandı.)
+
+* Kartlar ancak takımdan birine atanabilir. Takımdaki kişiler ise varsayılan olarak tanımlandı. Takım üyeleri bir sınıf aracılığıyla tutuldu. Kartlara atama yapılırken takım üyeleri ID leri ile atandı.
+
+* Uygulama ilk başladığında kullanıcıya yapmak istediği işlem seçtirilir.
+````
+  Lütfen yapmak istediğiniz işlemi seçiniz
+  *******************************************
+  (1) Board Listelemek
+  (2) Board'a Kart Eklemek
+  (3) Board'dan Kart Silmek
+  (4) Kart Taşımak
+  ````
+
+  ## (1) Board Listelemek
+
+  ````
+    TODO Line
+    ************************
+    Başlık      :
+    İçerik      :
+    Atanan Kişi :
+    Büyüklük    :
+    -
+    Başlık      :
+    İçerik      :
+    Atanan Kişi :
+    Büyüklük    :
+            
+            
+    IN PROGRESS Line
+    ************************
+    Başlık      :
+    İçerik      :
+    Atanan Kişi :
+    Büyüklük    :
+    -
+    Başlık      :
+    İçerik      :
+    Atanan Kişi :
+    Büyüklük    :
+
+
+    DONE Line
+    ************************
+    ~ BOŞ ~
+ ````
+
+ ## (2) Board'a Kart Eklemek
+
+ ````
+    Başlık Giriniz                                  : 
+    İçerik Giriniz                                  :
+    Büyüklük Seçiniz -> XS(1),S(2),M(3),L(4),XL(5)  :
+    Kişi Seçiniz                                    :
+````
+* Büyüklükler Enum olarak saklandı.Kart üzerinde gösterilirken XS olarak gösteriliyor. Fakat giriş yapılırken kullanıcıdan rakam isteniyor.
+
+* Takım üyeleri mevcut bir listede tanımlandı.Kart tanımlarken takım üyesinin ID'si isteniyor.Tanımlı bir ID değilse *"Hatalı giriş. Girilen ID'ye ait bir kullanıcı bulunamadı."* uyarısı ile işlem iptal ediliyor.
+
+## (3) Board'a Kart Silmek
+
+````
+ Öncelikle silmek istediğiniz kartı seçmeniz gerekiyor.
+ Lütfen kart başlığını yazınız:
+ ````
+ Kart bulunamaz ise:
+ ````
+  Aradığınız krtiterlere uygun kart board'da bulunamadı. Lütfen bir seçim yapınız.
+  * Silmeyi sonlandırmak için : (1)
+  * Yeniden denemek için : (2)
+ ````
+
+## (4) Kart Taşımak
+````
+ Öncelikle silmek istediğiniz kartı seçmeniz gerekiyor.
+ Lütfen kart başlığını yazınız: 
+````
+Kart bulunamaz ise:
+````
+ Aradığınız krtiterlere uygun kart board'da bulunamadı. Lütfen bir seçim yapınız.
+ * İşlemi sonlandırmak için : (1)
+ * Yeniden denemek için : (2)
+````
+Kart bulunur ise:
+````
+ Bulunan Kart Bilgileri:
+ **************************************
+ Başlık      :
+ İçerik      :
+ Atanan Kişi :
+ Büyüklük    :
+ Line        :
+
+ Lütfen taşımak istediğiniz Line'ı seçiniz: 
+ (1) TODO
+ (2) IN PROGRESS
+ (3) DONE
+ ````
+ **NOT:** Uygulamanın yapısı genel olarak aşağıdaki gibi olmalıdır:
+
+* Board 3 tane Line dan oluşur.
+* Her bir line bir kart listesi tutar.
+* Kartların büyüklükleri pre-defined olan bir enum'da tutulur.
+* Kart sadece takım üyelerinden birine atanabilir.
+* Takım üyeleri daha önceden varsayılan olarak tanımlanmış bir listede olmalı. Struct, class yada bir koleksiyon kullanılabilir.

@@ -1,0 +1,16 @@
+C:\Users\Akif\OneDrive\Masaüstü\ToDo_Uygulaması\bin\Debug\net5.0\ToDo_Uygulaması.exe
+C:\Users\Akif\OneDrive\Masaüstü\ToDo_Uygulaması\bin\Debug\net5.0\ToDo_Uygulaması.deps.json
+C:\Users\Akif\OneDrive\Masaüstü\ToDo_Uygulaması\bin\Debug\net5.0\ToDo_Uygulaması.runtimeconfig.json
+C:\Users\Akif\OneDrive\Masaüstü\ToDo_Uygulaması\bin\Debug\net5.0\ToDo_Uygulaması.runtimeconfig.dev.json
+C:\Users\Akif\OneDrive\Masaüstü\ToDo_Uygulaması\bin\Debug\net5.0\ToDo_Uygulaması.dll
+C:\Users\Akif\OneDrive\Masaüstü\ToDo_Uygulaması\bin\Debug\net5.0\ref\ToDo_Uygulaması.dll
+C:\Users\Akif\OneDrive\Masaüstü\ToDo_Uygulaması\bin\Debug\net5.0\ToDo_Uygulaması.pdb
+C:\Users\Akif\OneDrive\Masaüstü\ToDo_Uygulaması\obj\Debug\net5.0\ToDo_Uygulaması.csprojAssemblyReference.cache
+C:\Users\Akif\OneDrive\Masaüstü\ToDo_Uygulaması\obj\Debug\net5.0\ToDo_Uygulaması.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Akif\OneDrive\Masaüstü\ToDo_Uygulaması\obj\Debug\net5.0\ToDo_Uygulaması.AssemblyInfoInputs.cache
+C:\Users\Akif\OneDrive\Masaüstü\ToDo_Uygulaması\obj\Debug\net5.0\ToDo_Uygulaması.AssemblyInfo.cs
+C:\Users\Akif\OneDrive\Masaüstü\ToDo_Uygulaması\obj\Debug\net5.0\ToDo_Uygulaması.csproj.CoreCompileInputs.cache
+C:\Users\Akif\OneDrive\Masaüstü\ToDo_Uygulaması\obj\Debug\net5.0\ToDo_Uygulaması.dll
+C:\Users\Akif\OneDrive\Masaüstü\ToDo_Uygulaması\obj\Debug\net5.0\ref\ToDo_Uygulaması.dll
+C:\Users\Akif\OneDrive\Masaüstü\ToDo_Uygulaması\obj\Debug\net5.0\ToDo_Uygulaması.pdb
+C:\Users\Akif\OneDrive\Masaüstü\ToDo_Uygulaması\obj\Debug\net5.0\ToDo_Uygulaması.genruntimeconfig.cache
