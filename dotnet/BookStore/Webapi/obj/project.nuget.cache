@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "yq1fkPbkNn7WcQy8OzfOQ3qfWEJ8bllv+cvPLMjzI3lRs1H4rkWGco+t88/6hC+8FZFbUNp+yhm6eFoIplsL5g==",
+  "dgSpecHash": "NLAdK39t87zoZVSS2eV+ycKiKKbzy3Mp1ZxGPRVSOw7zqYy8LeO3PD63d4BZI8D7gMsQ0fxLEDKZDgqouDUKQw==",
   "success": true,
   "projectFilePath": "D:\\PatikaDev\\dotnet\\BookStore\\Webapi\\Webapi.csproj",
   "expectedPackageFiles": [

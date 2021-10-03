@@ -54,7 +54,6 @@ D:\PatikaDev\dotnet\BookStore\Webapi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swa
 D:\PatikaDev\dotnet\BookStore\Webapi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 D:\PatikaDev\dotnet\BookStore\Webapi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
 D:\PatikaDev\dotnet\BookStore\Webapi\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
-D:\PatikaDev\dotnet\BookStore\Webapi\obj\Debug\net5.0\Webapi.csprojAssemblyReference.cache
 D:\PatikaDev\dotnet\BookStore\Webapi\obj\Debug\net5.0\Webapi.GeneratedMSBuildEditorConfig.editorconfig
 D:\PatikaDev\dotnet\BookStore\Webapi\obj\Debug\net5.0\Webapi.AssemblyInfoInputs.cache
 D:\PatikaDev\dotnet\BookStore\Webapi\obj\Debug\net5.0\Webapi.AssemblyInfo.cs
@@ -77,3 +76,4 @@ d:\PatikaDev\dotnet\BookStore\Webapi\bin\Debug\net5.0\Microsoft.IdentityModel.Pr
 d:\PatikaDev\dotnet\BookStore\Webapi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
 d:\PatikaDev\dotnet\BookStore\Webapi\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
 d:\PatikaDev\dotnet\BookStore\Webapi\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+d:\PatikaDev\dotnet\BookStore\Webapi\obj\Debug\net5.0\Webapi.csproj.AssemblyReference.cache

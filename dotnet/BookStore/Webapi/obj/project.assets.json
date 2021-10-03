@@ -1290,11 +1290,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\PatikaDev\\dotnet\\BookStore\\Webapi\\Webapi.csproj",
+      "projectUniqueName": "d:\\PatikaDev\\dotnet\\BookStore\\Webapi\\Webapi.csproj",
       "projectName": "Webapi",
-      "projectPath": "D:\\PatikaDev\\dotnet\\BookStore\\Webapi\\Webapi.csproj",
+      "projectPath": "d:\\PatikaDev\\dotnet\\BookStore\\Webapi\\Webapi.csproj",
       "packagesPath": "C:\\Users\\Akif\\.nuget\\packages\\",
-      "outputPath": "D:\\PatikaDev\\dotnet\\BookStore\\Webapi\\obj\\",
+      "outputPath": "d:\\PatikaDev\\dotnet\\BookStore\\Webapi\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Akif\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -1374,7 +1374,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
       }
     }
   }
