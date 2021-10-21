@@ -21,12 +21,17 @@ function App() {
   return (
     <div>
       <Header />
+
       <User
         name="Mehmet Akif"
         surname="Yıldız"
         isLogin={true}
         age={39}
         friends={friends}
+        adress={{
+          title: "Bursa/Mudanya",
+          zip: 16250,
+        }}
       />
 
     </div>
